@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=DiagonalEnemy
+comment1.params=x\ y\ w\ h\ sH\ yS\ sW\ xS
+comment1.target=DiagonalEnemy(int,\ int,\ int,\ int,\ int,\ int,\ int,\ int)
+comment2.params=x\ y\ w\ h\ sH\ yS\ tL\ bL\ rL\ lL\ sW\ xS
+comment2.target=DiagonalEnemy(int,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int)
+comment3.params=
+comment3.target=java.awt.Color\ getColor()
+comment4.params=
+comment4.target=void\ move()
+numComments=5

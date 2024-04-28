@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Teleporter
+comment1.params=x\ y\ w\ h\ b\ tS
+comment1.target=Teleporter(int,\ int,\ int,\ int,\ Enemy[],\ double)
+comment2.params=
+comment2.target=java.awt.Color\ getColor()
+comment3.params=a
+comment3.target=void\ updateEnemies(Enemy[])
+comment4.params=
+comment4.target=void\ move()
+numComments=5
