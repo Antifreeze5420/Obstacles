@@ -1,9 +1,0 @@
-#BlueJ class context
-comment0.target=BomberEnemy
-comment1.params=x\ y\ w\ h\ Rect\ bomb_time
-comment1.target=BomberEnemy(int,\ int,\ int,\ int,\ java.awt.Rectangle,\ int)
-comment2.params=
-comment2.target=java.awt.Color\ getColor()
-comment3.params=
-comment3.target=void\ move()
-numComments=4

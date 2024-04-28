@@ -16,7 +16,7 @@ public class MyProgram extends JPanel implements ActionListener, KeyListener {
    
     private int gameWidth = 475; //the width of the game area
     private int gameHeight = 330; //the height of the game area
-    private int level = 0;
+    private int level = 0 ;
 
     private static JLabel dialogLabel;
     private static JFrame frame;
